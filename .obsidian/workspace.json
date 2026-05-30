@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "karts-mothership/04. Meetings/2026-05-30-2차회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2026-05-30-2차회의"
             }
           }
         ],
@@ -200,9 +200,17 @@
   },
   "active": "5e6c677e3fbbe184",
   "lastOpenFiles": [
-    "ARCHITECTURE.md",
-    "karts-mothership/00. Inbox/무제.md",
+    "README.md",
     "karts-mothership/04. Meetings/2026-05-30-2차회의.md",
+    "INSTALL.md",
+    "CLAUDE.md",
+    "ARCHITECTURE.md",
+    "karts-mothership/README.md",
+    "karts-mothership/01. Projects/ai-animation-2026/_Project Overview.md",
+    "karts-mothership/01. Projects/ai-animation-2026/Moods/Sosa/_Style Direction.md",
+    "karts-mothership/01. Projects/ai-animation-2026/Moods/Gupgi/_Style Direction.md",
+    "karts-mothership/01. Projects/ai-animation-2026/Moods/Doryong/_Style Direction.md",
+    "karts-mothership/00. Inbox/무제.md",
     "karts-mothership/04. Meetings/2026-05-27-킥오프.md"
   ]
 }
